@@ -1,0 +1,12 @@
+{
+  "name": "laufbild-ai",
+  "description": "Video styles and tooling from laufbild.ai",
+  "owner": { "name": "laufbild.ai", "url": "https://laufbild.ai" },
+  "plugins": [
+    {
+      "name": "laufbild",
+      "source": "./",
+      "description": "Short vertical marketing videos from a website: curated styles, rendered on your own machine."
+    }
+  ]
+}

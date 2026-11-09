@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "laufbild": {
+      "type": "http",
+      "url": "https://laufbild.ai/mcp"
+    }
+  }
+}

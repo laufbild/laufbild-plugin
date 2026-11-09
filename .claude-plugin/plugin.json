@@ -1,0 +1,10 @@
+{
+  "name": "laufbild",
+  "displayName": "laufbild",
+  "version": "0.1.0",
+  "description": "Build short vertical marketing videos from a website, using curated styles from laufbild and rendering locally with HyperFrames.",
+  "author": { "name": "Innovaforge IT Consulting & Softwareentwicklung GmbH" },
+  "homepage": "https://laufbild.ai/docs",
+  "repository": "https://github.com/laufbild/laufbild-plugin",
+  "license": "MIT"
+}

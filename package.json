@@ -1,0 +1,16 @@
+{
+  "name": "@laufbild/plugin",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local helpers for the laufbild Claude Code plugin: sanitize generated markup before rendering, align word timings.",
+  "license": "MIT",
+  "repository": "https://github.com/laufbild/laufbild-plugin",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "acorn": "8.18.0",
+    "parse5": "7.3.0"
+  }
+}
